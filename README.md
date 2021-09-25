@@ -3,7 +3,7 @@
 В данном проекте, мы помогаем пользователю получить подробную информации о путешествиях по россии. Сайт имеет полезные ссылки с дополнительные источники.
 
 Ссылка на GitHab:
-https://github.com/DubininaElizaveta/russian-travel.git
+https://dubininaelizaveta.github.io/russian-travel/index.html 
 
 В данном проекте использованны следущие технологии:
 1. БЭМ
