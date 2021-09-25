@@ -3,17 +3,23 @@
     text-align: center;
     font-weight: 400;
     font-size: 18px;
-    line-height: 1.2;
+    line-height: 122%;
     color: #FFFFFF;
     margin: 0 auto;
     position: relative;
     z-index: 1;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 1024px) {
+    .cover__subtitle {
+        line-height: 106%;
+    }
+}
+
+@media screen and (max-width: 320px) {
     .cover__subtitle {
         max-width: 288px;
         font-size: 14px;
-        line-height: 1.1;
+        line-height: 114%;
     }
 }
